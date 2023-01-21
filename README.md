@@ -4,7 +4,7 @@ Simple JIT Engine prototype , supports only integer variable assignment.
 
 ## To Compile and Run
 
-You have place the libjit paths properly in Makefile, Before running these commands.
+You need to place the libjit paths properly in Makefile, Before running these commands.
 
 ```
 make engine
