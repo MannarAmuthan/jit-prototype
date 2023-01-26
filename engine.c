@@ -110,7 +110,8 @@ int main(){
 
     compile_and_run_statement(&statement);
 
-    printf("My Variable value: %d\n", my_var_slot);
+    /* Prints  My Variable value: 65489*/
+    printf("My Variable value: %d\n", my_var_slot); 
 
     /* Destroy contexts */
     
